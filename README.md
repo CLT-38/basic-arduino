@@ -52,7 +52,7 @@ void setup()
   // add service
   BLE.addService(nusService);
 
-  // Écriture initiale sur TX pour éviter le timeout RemoteXY
+  // Écriture initiale sur TX 
   uint8_t initMsg[1] = {0};
   txCharacteristic.writeValue(initMsg, 1);
 
