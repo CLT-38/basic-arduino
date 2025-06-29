@@ -8,6 +8,6 @@ Il nécessite en matériel :
 Il nécessite en logiciel :
 - Arduino IDE
 
-Voir le fichier INO
+Voir le [fichier INO](led.ino)
 
 Essaie d'écrire CLT avec la matrice de LED !
